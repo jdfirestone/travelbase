@@ -25,7 +25,7 @@
 <div class="table-responsive">
 <table class="table table-striped table-hover">
 
-	<!-- table column headings -->
+
 	<tr>
 <th scope="col">Country</th>
 <th scope="col">City</th>

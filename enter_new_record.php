@@ -17,7 +17,6 @@
 
 <div id="travel" class="form-group">
 
-<!-- this form is handled by the JavaScript file linked at bottom -->
 <form id="travelform" method="post" autocomplete="off">
 
  <div class="form-check">
@@ -47,7 +46,7 @@
 
 	<input type="submit" id="submit" value="Submit">
 </form>
-<!-- close the form -->
+
   <p class="middle"><a href="travel_update.php">Back to recommendations</a></p>
 </div>
 
@@ -57,7 +56,7 @@
 </div>
 </div>
 </div>
-</div> <!-- close container -->
+</div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"> </script>
 <script src="js/enter.js"></script>
 </body>
