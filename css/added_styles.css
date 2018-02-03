@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background: #0881de;
+  font-family: 'Sacramento', sans-serif;
+}
+
+#container {
+  max-width: 800px;
+  margin:50px auto;
+  background: #ffffff;
+  padding: 1%;
+}
+
+h1 {
+  margin: 0;
+}
+
+input {
+  width: 100%;
+  font-family: 'Sacramento', sans-serif;
+  margin-bottom: 2%;
+}
